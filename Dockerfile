@@ -1,5 +1,5 @@
 
-FROM alpine:latest as build
+FROM alpine:latest
 LABEL maintainer="John McKenzie<jmckind@gmail.com>"
 
 RUN apk add --no-cache rethinkdb
