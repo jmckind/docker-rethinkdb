@@ -1,9 +1,9 @@
 # docker-rethinkdb
 
-Docker image for RethinkDB based on Alpine.
+Dockerfile for docker RethinkDB image based on Alpine.
 
 ## License
 
-JIRA Operator is under Apache 2.0 license. See the [LICENSE][license_file] file for details.
+docker-rethinkdb is released under the MIT license. See the [LICENSE][license_file] file for details.
 
 [license_file]:./LICENSE
